@@ -2,6 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 2.0.0 - (2024-10-30)
+### Merges
+*  Merge pull request #9 from leoviana00/feature-conclusao-game [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/e22ddd36997725ec21112b25470be0892fe92748)
 *  Merge pull request #8 from leoviana00/feature-conclusao-game [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/dea131b08df62615014aa025ca39df782e84dce8)
 *  Merge pull request #7 from leoviana00/feature-block-confronto-if-ternario [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/19aa9b0f9a0d121202347c098643ff9f3e871ece)
 *  Merge pull request #6 from leoviana00/feature-project-implementation [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/dd5b321c9d270cf41442c883fb02dce1cdee80c5)
@@ -20,6 +28,8 @@
 *  feat(confronto): implemrntando o confronto [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/f21452a7fc9b1b88e02fb87df0668c73b1a137cb)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/a6428bf64f8547819d024af681511974d38d47f9)
 *  feat(game): finalizacao game [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/4d8008b45f0634f8ed3e1e4ad3ac1e0ba6a8506e)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/bd4eb9ae3524210e684826ca8eaff6669bd85900)
+*  docs(readme): updae readme and changelog [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/39b749b8ebbae7a3dbca1270f174335147daa1ad)
 
 
 
@@ -43,8 +53,9 @@
 *  feat(changelog): configuracao de autochangelog [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/83330a45426f201d682f0bda6022fc390091c300)
 ## 📝 Metadata
 ```
-This version -------- 1.0.0
+This version -------- 2.0.0
+1.0.0
 0.0.0
-Previous version ---- 0.0.0
-Total commits ------- 6
+Previous version ---- 1.0.0
+Total commits ------- 26
 ```
