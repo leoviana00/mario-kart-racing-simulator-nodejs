@@ -2,8 +2,11 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #4 from leoviana00/feature-base-project [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/38def7383cf34396221f14ee38fae5db726c58aa)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/ce33f50238ca7450f3714a9f68c247bf524a2cb7)
+*  docs(project): documentacao inicial do projeto [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/9591f32e146c2bc40b0ee56759d0118ba8e3eff7)
+*  feat(project): initial [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/5f71ac61a41993b8513adbb86daa8c81cc001c07)
 
 
 
