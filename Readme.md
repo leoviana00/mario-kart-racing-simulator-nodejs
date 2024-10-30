@@ -127,6 +127,12 @@ cd mario-kart-racing-simulator-nodejs
 node src/index.js
 ```
 
+- Exemplo do resultado de uma execução:
+
+<p align="center">
+  <img alt="GAME" src="./docs/exec.png">
+</p>
+
 ## Todo
 - Adicionar mais essas condições no `Confronto`
   - Sortear aleatoriamente se é um casco(-1 ponto) ou um bomba(-2 pontos)
