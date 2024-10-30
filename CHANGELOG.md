@@ -2,10 +2,20 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 1.0.0 - (2024-10-30)
+### Merges
+*  Merge pull request #3 from leoviana00/feature-configure-repositorio [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/6c5d492ac75d08f4bd200ae6d1e7527be0a5f943)
 *  Merge pull request #2 from leoviana00/feature-configure-repositorio [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/94780819538f268b5b030a78b8197940da3deb50)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/bfbd52c0574d3a460427d187d681bcc31d786e61)
 *  feat(templates): issues and pull request [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/19c1722d2fb482dd574240420355734659b3e60d)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/d4ef8426f1ffc090eec65e3301a6d5f0d16d0dbe)
+*  docs(config): finalizacao das configs do repo [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/e53ba31a3df19956959196f15cf5994a0be9bb17)
 
 
 
@@ -17,7 +27,8 @@
 *  feat(changelog): configuracao de autochangelog [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/83330a45426f201d682f0bda6022fc390091c300)
 ## 📝 Metadata
 ```
-This version -------- 0.0.0
+This version -------- 1.0.0
+0.0.0
 Previous version ---- 0.0.0
-Total commits ------- 1
+Total commits ------- 6
 ```
