@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h1>Simulador de Corridas do Mario Kart com Node.js</h1>
 
   <table>
         <tr>
