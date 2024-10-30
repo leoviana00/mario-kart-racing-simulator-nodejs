@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #7 from leoviana00/feature-block-confronto-if-ternario [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/19aa9b0f9a0d121202347c098643ff9f3e871ece)
 *  Merge pull request #6 from leoviana00/feature-project-implementation [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/dd5b321c9d270cf41442c883fb02dce1cdee80c5)
 *  Merge pull request #5 from leoviana00/feature-project-implementation [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/a564124582e84888705baeb10fbb6489c2249e50)
 *  Merge pull request #4 from leoviana00/feature-base-project [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/38def7383cf34396221f14ee38fae5db726c58aa)
@@ -14,6 +15,8 @@
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/75544a84d428e4126d617c5b1e770fad64bb74f6)
 *  docs(readme): update readme [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/45a04afb8f57521a9603f0c7b0e2f90c3389ee98)
 *  docs(readme): update readme [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/120708fb01fcf9d2a178b1a64551f7a3f9a26913)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/2acd49023cc5943e1d953bf166bfc00490cd6fdf)
+*  feat(confronto): implemrntando o confronto [View](https://github.com/leoviana00/mario-kart-racing-simulator-nodejs/commits/f21452a7fc9b1b88e02fb87df0668c73b1a137cb)
 
 
 
