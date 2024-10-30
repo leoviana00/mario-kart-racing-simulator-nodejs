@@ -1,4 +1,9 @@
-<h1>Simulador de Corridas do Mario Kart com Node.js</h1>
+<h1 align="center">Simulador de Corridas do Mario Kart com Node.js</h1>
+
+<p align="center">
+  <img alt="Game" src="https://img.shields.io/static/v1?label=Game&message=Mario Kart&color=8257E5&labelColor=000000"  />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
   <table>
         <tr>
@@ -101,3 +106,28 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+## 🚀 Execução 
+
+- Clone repo
+
+```bash
+git clone https://github.com/leoviana00/mario-kart-racing-simulator-nodejs.git
+```
+
+- Entrar no diretório
+
+```bash
+cd mario-kart-racing-simulator-nodejs
+```
+
+- Executar
+
+```bash
+node src/index.js
+```
+
+## Todo
+- Adicionar mais essas condições no `Confronto`
+  - Sortear aleatoriamente se é um casco(-1 ponto) ou um bomba(-2 pontos)
+  - Quem vence o confronto ganha um turbo (+ 1ponto) aleatoriamente
